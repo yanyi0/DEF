@@ -17,9 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'DEF,测试二进制和源码切换,看看能否实现头文件一样，不用重新导入'
 
   s.homepage         = 'https://github.com/yanyi0/DEF'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
