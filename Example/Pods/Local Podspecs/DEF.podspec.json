@@ -12,7 +12,7 @@
     "yanyi0": "785144130@qq.com"
   },
   "source": {
-    "git": "https://github.com/yanyi0/DEF.git",
+    "git": "git@github.com:yanyi0/DEF.git",
     "tag": "0.1.0"
   },
   "platforms": {
