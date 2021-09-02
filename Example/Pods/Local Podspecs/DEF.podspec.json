@@ -2,7 +2,7 @@
   "name": "DEF",
   "version": "0.1.0",
   "summary": "A short description of DEF.",
-  "description": "TODO: Add long description of the pod here.",
+  "description": "DEF,测试二进制和源码切换,看看能否实现头文件一样，不用重新导入",
   "homepage": "https://github.com/yanyi0/DEF",
   "license": {
     "type": "MIT",
